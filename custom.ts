@@ -56,7 +56,7 @@ namespace custom {
      * @param speed タイヤの速度
      */
     //% block="タイヤの速度を %speed にする"
-    //% group="ライントレーサー（元からあるやつ）"
+    //% group="ライントレーサー"
     export function setTireSpeed(speed: number): void {
         tireSpeed = speed
     }
