@@ -1,5 +1,5 @@
 //% block="ライントレーサー"
-//% color=#DB7093
+//% color=#6A5ACD
 //% icon="\uf1b9"
 namespace custom {
 
